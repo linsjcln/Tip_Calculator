@@ -4,8 +4,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using AndroidX.AppCompat.App;
-using Google.Android.Material.FloatingActionButton;
-using Google.Android.Material.Snackbar;
 using Android.Widget;
 
 namespace Tip_Calculator
